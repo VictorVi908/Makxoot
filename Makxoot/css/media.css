@@ -1,0 +1,553 @@
+@media (max-width: 1106px) {
+    .rewiews__item {
+        max-width: 518px;
+    }
+    .rewiews .slick-initialized .slick-slide {
+        margin: 10px 75px;
+    }
+    .slick-prev, .slick-next {
+        margin: 0 80px;
+    }
+}
+
+@media (max-width:1025px) {
+    .footer__img {
+        padding-left: 75px;
+    }
+    .footer__item {
+        padding-right: 33px;
+    }
+    .present{
+        padding-top: 0px;
+    }
+    .present__title{
+        font-size: 29px;
+    }
+    .rewiews__title {
+        font-size: 30px;
+    }
+    .hostings__title {
+        font-size: 30px;
+    }
+    .hostings__body img {
+        max-width: 285px;
+        height: 66px;
+    }
+    .search__form {
+        position: relative;
+        right: 51px;
+    }
+    .rewiews .slick-initialized .slick-slide {
+        margin: 10px 97px;
+    }
+    .slick-prev {
+        margin-right: 20px;
+    }
+    .slick-next {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:1010px) {
+    .slider__gradient {
+        width: 398px;
+        height: 398px;
+    }
+    .slider__gradient img {
+        width: 342px;
+        height: 299px;
+    }
+}
+
+@media (min-width: 992px) {
+    .menu__list {
+        display: flex !important;
+    }
+}
+
+@media (max-width:992px) {
+    .rewiews__title {
+        padding-top: 29px;
+        padding-bottom: 33px;
+        font-size: 30px;
+    }
+    .rewiews__author {
+        padding-top: 22px;
+    } 
+    .rewiews__author-name{
+        padding-bottom: 10px;
+    }
+    .rewiews__text{
+        padding-top: 10px;
+        line-height: 20px;
+    }
+    .rewiews__stars{
+        padding-left: 10px;
+    }
+    .rewiews__author img {
+        margin-right: 15px;
+    }
+    .slider__title {
+        margin-top: 93px;
+        padding-bottom: 30px;
+        font-size: 37px;
+        padding-bottom: 15px;
+    }
+    .menu__list {
+        display: none;
+        position: absolute;
+        top: 87px;
+        left: 0;
+        right: 0;
+        width: 100%;
+        text-align: center;
+        z-index: 5;
+    }
+    .header ul {
+        padding-left: 0;
+    }
+    .header li {
+        padding-right: 0;
+    }
+    .menu__list a {
+        display: block;
+        padding: 10px 0;
+        border-bottom: 1px solid rgb(14, 167, 235);
+        background-color: #fff;
+        color: rgb(14, 167, 235);
+        font-weight: 600;
+    }
+    .btn__menu {
+        display: block;
+    }
+    .header__btn {
+        padding: 10px 24px;
+        position: absolute;
+        right: 100px;
+    }
+}
+
+@media (max-width:953px) {
+    .slider__title {
+        margin-top: 93px;
+    }
+    .slider__gradient img {
+        width: 306px;
+        height: 260px;
+        top: 72;
+    }
+    .search__form {
+        position: relative;
+        right: 32px;
+    }
+}
+
+@media (max-width: 895px) {
+    .footer__img {
+        padding-left: 45px;
+    }
+    .footer__item {
+        padding-right: 12px;
+    }
+    .rewiews .slick-initialized .slick-slide {
+        margin: 10px 60px;
+    }
+    .search__form {
+        position: relative;
+        right: 39px;
+    }
+    .search__btn {
+        max-width: 135px;
+    }
+    .search__btn img {
+        left: 18px;
+    }
+    .search__line {
+        max-width: 534px;
+        margin-bottom: 82px;
+    }
+    .seacrh__title {
+        font-size: 33px;
+        padding-top: 46px;
+        padding-bottom: 25px;
+    }
+}
+
+@media (max-width:869px) {
+    .hostings__title {
+        font-size: 30px;
+    }
+    .hostings__body img {
+        max-width: 245px;
+        height: 56px;
+    }
+}
+
+@media (max-width: 859px) {
+    .slider__text {
+        padding-bottom: 28px;
+        font-weight: 300;
+        line-height: 21px;
+    }
+    .slider__gradient img {
+        width: 270px;
+        height: 224px;
+    }
+    .slider__gradient {
+        width: 398px;
+        height: 328px;
+    }
+}
+
+@media (max-width: 776px) {
+    .rewiews .slick-initialized .slick-slide {
+        margin: 10px 30px;
+    }
+    .slider__title {
+        margin-top: 49px;
+        font-size: 30px;
+    }
+    .slider__text {
+        padding-bottom: 22px;
+        font-weight: 300;
+    }
+    .slider__body {
+        width: 384px;
+    }
+    .hostings__title {
+        font-size: 25px;
+        margin: 36px 0 36px 0;
+    }
+    .hostings__body img {
+        max-width: 225px;
+        height: 46px;
+    }
+    .seacrh__title {
+        font-size: 28px;
+    }
+    .search__form {
+        right: 4px;
+    }
+    .footer__img {
+        padding-left: 15px;
+    }
+    .footer__item {
+        padding-right: 0px;
+    }
+}
+
+@media (max-width: 748px){
+    .present__title{
+        font-size: 25px;
+    }
+    .present__title {
+        padding: 18px 0;
+    }
+    .adv__items {
+        margin: 90px 39px 0 70px;
+    }
+    .rewiews {
+        padding-bottom: 24px;
+    }
+    .slick-next{
+        margin-right: 30px;
+    }
+    .slick-prev{
+        margin-left: 30px;
+    }
+}
+
+@media (max-width:736px) {
+    .adv__items {
+        margin: 90px 42px 0 70px;
+    }
+    .search__line {
+        max-width: 525px;
+    }
+    .search__btn {
+        right: -4px;
+    }
+    .search__form {
+        right: -3px;
+    }
+    .seacrh__title {
+        padding-bottom: 41px;
+    }
+    .adv__items {
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+}
+
+@media (max-width:728px) {
+
+    .footer__body {
+        display: block;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .footer__item {
+        font-size: 11px;
+    }
+    .footer__list {
+        padding-left: 10px;
+    }
+    .footer__item-title {
+        font-size: 12px;
+    }
+
+    /* .footer__img{
+        display: flex;
+        justify-content: space-between;
+    } */
+
+    .rewiews .slick-initialized .slick-slide {
+        margin: 10px 15px;
+    }
+    .hostings {
+        margin-bottom: 203px;
+    }
+    .slick-initialized .slick-slide {
+        display: block;
+    }
+    .slider__gradient img {
+        width: 212px;
+        height: 181px;
+    }
+    .slider__gradient {
+        padding-top: 20px;
+        width: 274px;
+        height: 271px;
+    }
+    .rate__items {
+        display: block;
+        max-width: 500px;
+        margin: 0 auto;
+        border: none;
+    }
+    .rate__item {
+        margin-bottom: 20px;
+        border: 1px solid #d0cece;
+    }
+    .rate__title {
+        margin-bottom: 22px;
+        font-size: 26px;
+    }
+    .rate-item__title {
+        padding: 15px 0;
+    }
+    .rate-item__subtitle {
+        padding: 25px 0;
+    }
+    .rate-item__price {
+        padding: 17px 0;
+    }
+    .adv__items {
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    .search__line {
+        max-width: 411px;
+    }
+    .seacrh__select select {
+        padding-right: 0;
+    }
+    .search__line::placeholder {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .search__form {
+        right: 25px;
+    }
+}
+@media (max-width:625px) {
+    .slick-arrow{
+        display: none !important;
+    }
+    .hostings__body {
+        display: block;
+        padding-bottom: 10px;
+        max-width: 184px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .hostings__body a {
+        margin-bottom: 30px;
+        position: absolute;
+        top: 0;
+    }
+    .hostings__body a:nth-child(2) {
+        position: absolute;
+        top: 64px;
+        left: -10px;
+    }
+    .hostings__body a:nth-child(3) {
+        position: absolute;
+        top: 128px;
+        left: -24px;
+    }
+    .hostings__body a img:nth-child(3) {
+        width: 30px;
+    }
+    .adv__items {
+        margin: 0 auto;
+        padding-top: 30px;
+        max-width: 278px;
+    }
+    .adv__title {
+        font-size: 33px;
+    }
+    .rate {
+        margin-bottom: 34px;
+    }
+    .seacrh__title {
+        font-size: 23px;
+    }
+    .search__form {
+        right: 8px;
+    }
+    .search__line {
+        max-width: 404px;
+        padding: 0 5px;
+    }
+    .search__line::placeholder{
+        font-size: 12px;
+       
+    }
+}
+
+@media (max-width:553px) {
+
+    .rewiews__stars{
+        padding: 20px;
+    }
+    .slider__body {
+        width: 306px;
+    }
+    .slider__btn {
+        padding: 12px 14px;
+        font-size: 15px;
+    }
+    .search__btn {
+        right: 3px;
+        max-width: 73px;
+        border: 1px solid #fff;
+    }
+    .search__btn img {
+        opacity: 0;
+    }
+    .seacrh__select {
+        right: -17px;
+    }
+}
+
+@media (max-width:460px) {
+    .present_text {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .present__title {
+        font-size: 20px;
+    }
+    .rewiews__stars{
+        padding: 0;
+    }
+    .rewiews__item{
+        padding: 0 10px;
+    }
+    .rewiews__author{
+        display: block;
+        padding-top: 10px;
+    }
+    .sliders__item {
+        margin: 0 15px 0 55px;
+    }
+    .slider__text {
+        font-size: 15px;
+    }
+    .sliders__wrapper .slick-dots ul {
+        left: 0;
+    }
+    .adv__title {
+        font-size: 25px;
+    }
+    .search__line {
+        max-width: 333px;
+    }
+    .search__line::placeholder {
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .search__form {
+        right: 25px;
+    }
+    .footer__body {
+        display: block;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .footer__item {
+        font-size: 10px;
+    }
+    .footer__list {
+        padding-left: 5px;
+    }
+    .footer__item-title {
+        font-size: 11px;
+    }
+}
+
+@media (max-width:411px) {
+    .search__form {
+        right: 8px;
+    }
+}
+
+@media (max-width:399px) {
+    .rewiews__item {
+        padding: 0 4px;
+    }
+    .hostings__title {
+        font-size: 20px;
+    }
+    .sliders__item {
+        margin: 0 15px 0 38px;
+    }
+    .slider__body {
+        width: 260px;
+    }
+    .slider__gradient {
+        left: -21px;
+    }
+    .sliders__wrapper .slick-dots button {
+        height: 11px;
+        width: 11px;
+    }
+    .sliders__wrapper .slick-dots li.slick-active button {
+        width: 14px;
+        height: 14px;
+    }
+    .seacrh__select {
+        right: -27px;
+    }
+    .search__line {
+        max-width: 267px;
+        padding: 8px;
+    }
+}
+
+@media (max-width:350px) {
+    .sliders__item {
+        margin: 0 15px 0 26px;
+    }
+}
+
+@media (max-width:338px) {
+    .header__btn {
+        padding: 10px 14px;
+        position: absolute;
+        right: 90px;
+    }
+    .sliders__item {
+        margin: 0 15px 0 18px;
+    }
